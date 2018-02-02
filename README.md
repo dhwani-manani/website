@@ -40,11 +40,11 @@ body{
 <body>
 <nav>
 <ul>  
-<li><a href="ContactUs.html" title="Contact Us">Contact Us</a> </li> 
+<li><a href="www.google.com" title="Contact Us">Contact Us</a> </li> 
 <li><a href="Help.html" title="Help">Help</a></h2></li>
 </ul>
 
- <center>
+ 
 <h1>Login Form</h1>
 <form name = "form" method="post" action="Category.html">
 <h2>User Name:<br>
@@ -53,9 +53,9 @@ body{
 <input type="Password" name="password" ></h2>
 <br>
 <br>
-<input type="submit" name="bttLogin" value="Login" onclick="Category.php">
+<input type="submit" name="bttLogin" value="Login" onclick="www.google.com">
 
-</center>
+
 </form>
 </body>
 </html>
