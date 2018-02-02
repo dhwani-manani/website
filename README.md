@@ -43,7 +43,7 @@ body{
 <li><a href="ContactUs.html" title="Contact Us">Contact Us</a> </li> 
 <li><a href="Help.html" title="Help">Help</a></h2></li>
 </ul>
-</div>
+
  <center>
 <h1>Login Form</h1>
 <form name = "form" method="post" action="Category.html">
