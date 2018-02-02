@@ -10,7 +10,7 @@ list-style-type: none;
 margin: 0;
 padding: 0;
 overflow: hidden;
-background-color: blue;
+background-color: #333;
 }
 
 li {
@@ -28,6 +28,10 @@ li a {
 li a:hover {
     background-color: #111;
 }
+body{
+       background-color: lightblue;
+}
+
 </style>
 </head>
 <header>
